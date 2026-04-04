@@ -25,7 +25,7 @@ Aplikasi Android Finance Tracker sederhana namun lengkap untuk mencatat, mengelo
 
 Repository ini berisi isi folder `app/src/main` dari proyek Android Studio asli. Berikut struktur foldernya:
 
-<img width="841" height="432" alt="Screenshot_20260404_231622" src="https://github.com/user-attachments/assets/3a93489e-f969-48d3-b72d-f690793a229d" />
+<img width="841" height="432" alt="Screenshot_20260404_231622" src="https://github.com/user-attachments/assets/f602205e-6643-43c4-a8af-134b6c1b0655" />
 
 
 > Catatan: Repository ini berisi isi folder `app/src/main` dari proyek Android Studio asli. Untuk menjalankan proyek secara lengkap, disarankan membuka di Android Studio setelah di-clone.
