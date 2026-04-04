@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KeuanganKita</string>
+    <string name="saldo_total">Saldo Total</string>
+    <string name="pemasukan">Pemasukan</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="grafik_pengeluaran">Grafik Pengeluaran</string>
+    <string name="riwayat_transaksi">Riwayat Transaksi</string>
+    <string name="lihat_selengkapnya">Lihat Selengkapnya</string>
+    <string name="tambah_pemasukan">Tambah Pemasukan</string>
+    <string name="tambah_pengeluaran">Tambah Pengeluaran</string>
+    <string name="jumlah">Jumlah (Rp)</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="kategori">Kategori</string>
+    <string name="batal">BATAL</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="belum_ada_transaksi">Belum ada transaksi</string>
+    <string name="belum_ada_pengeluaran">Belum ada pengeluaran bulan ini</string>
+</resources>

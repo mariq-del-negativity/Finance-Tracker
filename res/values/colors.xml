@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna Utama -->
+    <color name="colorPrimary">#1E88E5</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="colorAccent">#42A5F5</color>
+
+    <!-- Background -->
+    <color name="bgDark">#121212</color>
+    <color name="bgCard">#1E1E1E</color>
+    <color name="bgCardLight">#2C2C2C</color>
+    <color name="bgInput">#2A2A2A</color>
+
+    <!-- Text -->
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSecondary">#B0B0B0</color>
+    <color name="textHint">#757575</color>
+
+    <!-- Status -->
+    <color name="colorGreen">#4CAF50</color>
+    <color name="colorRed">#F44336</color>
+    <color name="colorBlue">#42A5F5</color>
+    <color name="colorOrange">#FF7043</color>
+
+    <!-- FAB -->
+    <color name="fabPlus">#4CAF50</color>
+    <color name="fabMinus">#F44336</color>
+</resources>
