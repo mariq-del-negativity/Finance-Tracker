@@ -1,6 +1,6 @@
 # Finance Tracker (KeuanganKita)
 
-Aplikasi Android Finance Tracker sederhana namun lengkap untuk mencatat, mengelola, dan memantau keuangan pribadi secara lokal.
+Aplikasi Android Finance Tracker sederhana namun lengkap untuk mencatat, mengelola, dan memantau keuangan pribadi yang berjalan secara lokal di perangkat anda.
 
 ## Tentang Aplikasi
 
