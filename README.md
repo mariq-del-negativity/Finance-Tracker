@@ -31,3 +31,12 @@ Repository ini berisi isi folder `app/src/main` dari proyek Android Studio asli.
 > Catatan: Repository ini berisi isi folder `app/src/main` dari proyek Android Studio asli. Untuk menjalankan proyek secara lengkap, disarankan membuka di Android Studio setelah di-clone.
 
 
+## Langka-langkah
+- Buka Android Studio dan buat projek baru dan pilih [Empty views activity], disini kita akan menamai projeknya sebagai "KeuanganKita"
+- Buka terminal di Android Studio dan jalankan
+```bash 
+git clone https://github.com/mariq-del-negativity/Finance-Tracker.git
+```
+- Buka file manager lalu cari foldernya
+- Ganti/timpa semua isi folder `~/AndroidStudioProjects/KeuanganKita/app/src/main/` dengan isi folder  Finance Tracker yang sudah di clone dari repository ini
+- Kembali ke Android Studio ~~> sync gradle ~~> run app
