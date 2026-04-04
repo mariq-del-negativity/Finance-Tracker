@@ -15,11 +15,14 @@ Aplikasi Android Finance Tracker sederhana namun lengkap untuk mencatat, mengelo
 - Antarmuka yang sederhana dan user-friendly
 
 ## Teknologi yang Digunakan
-- Android Studio
 - Kotlin
-- Room Database
-- MVVM Architecture
-- Material Design 3
+- Android Studio  
+- SQLite (SQLiteOpenHelper)
+- RecyclerView
+- Material FloatingActionButton
+- Custom Canvas Chart (tanpa library)
+- Repository Pattern
+- SharedPreferences (session)
 
 ## Struktur Folder Proyek
 
