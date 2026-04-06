@@ -1,45 +1,45 @@
 # Finance Tracker (KeuanganKita)
 
-Aplikasi Android Finance Tracker sederhana namun lengkap untuk mencatat, mengelola, dan memantau keuangan pribadi yang berjalan secara lokal di perangkat anda.
+A simple yet comprehensive Android finance tracker application for recording, managing, and monitoring personal finances. The app runs entirely locally on your device.
 
-## Tentang Aplikasi
+## About the Application
 
-**Finance Tracker** (nama internal: **KeuanganKita**) adalah aplikasi mobile berbasis Android yang membantu pengguna mengelola keuangan pribadi dengan lebih disiplin. Aplikasi ini memungkinkan pencatatan transaksi pemasukan dan pengeluaran, pengelompokan berdasarkan kategori, visualisasi data melalui grafik, serta pembuatan laporan bulanan.
+**Finance Tracker** (internal name: **KeuanganKita**) is an Android-based mobile application designed to help users manage their personal finances with greater discipline. The application allows users to record income and expense transactions, categorize them, visualize financial data through charts, and generate monthly reports.
 
-## Fitur Utama
-- Pencatatan transaksi pemasukan dan pengeluaran secara real-time
-- Pengelompokan transaksi berdasarkan kategori
-- Visualisasi data keuangan dalam bentuk grafik dan laporan
-- Pengaturan anggaran bulanan
-- Ringkasan saldo dan progres tabungan
-- Antarmuka yang sederhana dan user-friendly
+## Key Features
 
-## Teknologi yang Digunakan
+- Real-time recording of income and expense transactions
+- Categorization of transactions
+- Data visualization through charts and reports
+- Monthly budget management
+- Summary of balance and savings progress
+- Simple and user-friendly interface
+
+## Technologies Used
+
 - Kotlin
-- Android Studio  
+- Android Studio
 - SQLite (SQLiteOpenHelper)
 - RecyclerView
 - Material FloatingActionButton
-- Custom Canvas Chart (tanpa library)
+- Custom Canvas Chart (without external libraries)
 - Repository Pattern
-- SharedPreferences (session)
+- SharedPreferences (for session management)
 
-## Struktur Folder Proyek
+## Project Folder Structure
 
-Repository ini berisi isi folder `app/src/main` dari proyek Android Studio asli. Berikut struktur foldernya:
+This repository contains the contents of the `app/src/main` folder from the original Android Studio project. The folder structure is shown below:
 
 <img width="841" height="432" alt="Screenshot_20260404_231622" src="https://github.com/user-attachments/assets/f602205e-6643-43c4-a8af-134b6c1b0655" />
 
+> **Note:** This repository only includes the contents of the `app/src/main` folder from the original Android Studio project. To run the complete project, it is recommended to open it in Android Studio after cloning.
 
-> Catatan: Repository ini berisi isi folder `app/src/main` dari proyek Android Studio asli. Untuk menjalankan proyek secara lengkap, disarankan membuka di Android Studio setelah di-clone.
+## Setup Instructions
 
-
-## Langka-langkah
-- Buka Android Studio dan buat projek baru dan pilih [Empty views activity], namai projeknya sebagai "KeuanganKita"
-- Buka terminal di Android Studio dan jalankan
-```bash 
-git clone https://github.com/mariq-del-negativity/Finance-Tracker.git
-```
-- Buka file manager lalu cari foldernya
-- Ganti/timpa semua isi folder `~/AndroidStudioProjects/KeuanganKita/app/src/main/` dengan isi folder  Finance Tracker yang sudah di clone dari repository ini
-- Kembali ke Android Studio ~~> sync gradle ~~> run app
+- Open Android Studio and create a new project. Select **Empty Views Activity** and name the project **KeuanganKita**.
+- Open the terminal in Android Studio and run the following command:
+  ```bash
+  git clone https://github.com/mariq-del-negativity/Finance-Tracker.git
+Using your file manager, locate the cloned folder.
+Replace the entire contents of the ~/AndroidStudioProjects/KeuanganKita/app/src/main/ folder with the contents from the cloned Finance Tracker repository.
+Return to Android Studio, sync Gradle, and run the app.
