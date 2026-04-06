@@ -41,5 +41,5 @@ This repository contains the contents of the `app/src/main` folder from the orig
   ```bash
   git clone https://github.com/mariq-del-negativity/Finance-Tracker.git
 Using your file manager, locate the cloned folder.
-Replace the entire contents of the ~/AndroidStudioProjects/KeuanganKita/app/src/main/ folder with the contents from the cloned Finance Tracker repository.
+Replace the entire contents of the `~/AndroidStudioProjects/KeuanganKita/app/src/main/` folder with the contents from the cloned Finance Tracker repository.
 Return to Android Studio, sync Gradle, and run the app.
